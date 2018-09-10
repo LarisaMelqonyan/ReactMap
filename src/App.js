@@ -16,7 +16,7 @@ class GooglMap extends Component {
             <GoogleMapReact
                 className="container karta"
                 bootstrapURLKeys={{
-                    key:'AIzaSyCK6F8nozLf6lsWjxoQK-ATaXsgzI8gjrw',
+                    key:'',
                     language: 'en',
                 }}
                 defaultCenter={{lat: 59.95, lng: 30.33}}
